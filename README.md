@@ -9,3 +9,4 @@ My Projects of Data Science course.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" title="" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="" width="40" height="40"/>&nbsp;  
 ![Изображение](https://github.com/maksilion/Yandex_practicum_Data_Science/blob/main/schedule_2026_ds_134.jpg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksilion&theme=default)

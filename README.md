@@ -1,2 +1,2 @@
 # Yandex_practicum_Data_Science
-My Projects of Data Science course
+My Projects of Data Science course.
